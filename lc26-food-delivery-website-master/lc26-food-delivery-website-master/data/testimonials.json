@@ -1,0 +1,33 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Ritu Rana",
+      "firstName": "Ritu",
+      "position": "Marketing Coordinator",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on Instagram”",
+      "class": "active"
+    },
+    {
+      "id": 2,
+      "name": "Samarat ",
+      "firstName": "Samarat ",
+      "position": "Web Designer",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on  Instagram” ”"
+    },
+    {
+      "id": 3,
+      "name": "Pawan choudary",
+      "firstName": "Pawan",
+      "position": "President of Sales",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on  Instagram”"
+    },
+    {
+      "id": 4,
+      "name": "Vishal Sidhu",
+      "firstName": "Vishal",
+      "position": "Marketing Coordinator",
+      "info": "“Having good restaurant reviews is crucial these days. It is not just making our decision to pick one easier, it is also helping the restaurant be more successful. You can quickly copy and paste these good restaurant review examples, publish them on  Instagram””"
+    }
+  ]
+}
